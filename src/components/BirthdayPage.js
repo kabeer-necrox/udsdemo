@@ -31,6 +31,8 @@ function BirthdayPage() {
      
       </div>
       <h1>Lovely Environment</h1>
+      <p>contact:098374756</p>
+      <p>price:1000</p>
       
      </div>
      <div  className="thisisthecardofbirthday">
@@ -45,6 +47,8 @@ function BirthdayPage() {
      
       </div>
       <h1>Bakery Products</h1>
+      <p>contact:098374756</p>
+      <p>price:5000</p>
      </div>
      
     </div>

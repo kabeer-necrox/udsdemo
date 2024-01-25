@@ -18,6 +18,8 @@ function Weedings() {
       </div>
       
      <h2>Wedding Products</h2>
+     <p>contact:0983747560</p>
+      <p>price:1000</p>
      
     </div>
     <div className='thisisthecardofbirthday'>
@@ -33,6 +35,9 @@ function Weedings() {
       
       </div>
      <h2>weeding cards</h2>
+     <p>contact:098374756</p>
+      <p>price:2000</p>
+     
     </div>
     <div className='thisisthecardofbirthday'>
     <img className='weedingproducts' src='https://images.unsplash.com/photo-1523438885200-e635ba2c371e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2VkZGluZyUyMGhhbGx8ZW58MHx8MHx8fDA%3D' />
@@ -47,6 +52,8 @@ function Weedings() {
       
       </div>
      <h2>Mirrage Hall</h2>
+     <p>contact:098374756</p>
+      <p>price:50000</p>
     </div>
     
    </div>
