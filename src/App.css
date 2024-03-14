@@ -3,10 +3,12 @@ body{
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+  text-decoration: none !important;
 
 }
 a{
-  text-decoration: none;
+  text-decoration: none !important;
+  
 }
 
 .nav-ul li{
@@ -384,11 +386,12 @@ li{
 .photographyyy{
   display: flex;
   justify-content: space-between;
+ 
   
 }
 
 .photgraphyimage{
-  width: 400px;
+  width: 350px;
   height: 350px;
 }
 .photowidth{
@@ -403,7 +406,8 @@ li{
 .birthday{
   display: flex;
   
-  justify-content: space-between;
+  
+  /* justify-content: space-between; */
 }
 .birthdayimagess{
   width: 400px;
@@ -417,9 +421,10 @@ li{
 /* *****************weedings Css******************** */
 
 .weedingsmain{
-  /* border: 3px solid pink; */
+ 
   display: flex;
   justify-content: space-between;
+  
  
 }
 
